@@ -1,2 +1,3 @@
 # hello-world
-Starting to learn github
+Hello,
+My Name is Draether, and I am studying how GitHub works.
